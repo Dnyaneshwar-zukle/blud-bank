@@ -1,0 +1,9 @@
+packages for the express
+cors
+colors
+morgan
+mongos
+dotenv
+
+>> run by nodemon >> command >> npm run server
+url for postmen : http://localhost/4000/api/v1/auth/register
